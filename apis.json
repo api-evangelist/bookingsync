@@ -1,0 +1,84 @@
+{
+    "name": "BookingSync",
+    "description": "Vacation rental property management software. Save Time & Book More\u2122 with our Reservation System, Channel Manager and Website Builder. Request a Demo!",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/712-bookingsync.jpg",
+    "tags": [
+        "api provider",
+        "bookings",
+        "have api",
+        "marketplaces",
+        "rental",
+        "rentals",
+        "reservations",
+        "target",
+        "vacation rentals",
+        "vacations"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/bookingsync\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "BookingSync",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/712-bookingsync.jpg",
+            "humanURL": "https:\/\/www.bookingsync.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/bookingsync-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/bookingsync-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "https:\/\/www.bookingsync.com\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.bookingsync.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.bookingsync.com\/en\/news\/feed"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/bookingsync"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/bookingsync"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/www.bookingsync.com\/documentation\/api"
+        },
+        {
+            "type": "Email",
+            "url": "support@bookingsync.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/BookingSync"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/bookingsync"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.bookingsync.com\/"
+        }
+    ]
+}
