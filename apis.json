@@ -14,8 +14,8 @@
         "vacation rentals",
         "vacations"
     ],
-    "created": "2019-12-19",
-    "modified": "2019-12-19",
+    "created": "2019-12-20",
+    "modified": "2019-12-20",
     "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/bookingsync\/master\/apis.json",
     "specificationVersion": "0.14",
     "apis": [
@@ -29,17 +29,21 @@
             "properties": [
                 {
                     "type": "x-openapi",
-                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/bookingsync-openapi.json"
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/bookingsync\/master\/bookingsync-openapi.json"
                 },
                 {
                     "type": "x-postman-collecction",
-                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/bookingsync-postman-collection.json"
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/bookingsync\/master\/bookingsync-postman-collection.json"
                 }
             ]
         }
     ],
     "include": [],
     "x-common": [
+        {
+            "type": "APIs.json",
+            "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/apis.json"
+        },
         {
             "type": "Base",
             "url": "https:\/\/www.bookingsync.com\/"
